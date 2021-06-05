@@ -1,0 +1,39 @@
+[
+    {
+        "id": "id-1",
+        "width": 800,
+        "alt": "New City",
+        "src": "https://cdn.pixabay.com/photo/2021/05/01/09/59/city-6220689_960_720.jpg",
+        "name": "New City",
+        "author": "Serj Korytskyy",
+        "quantity": 10
+    },
+    {
+        "id": "id-2",
+        "width":800,
+        "alt": "Forest",
+        "src": "https://cdn.pixabay.com/photo/2015/03/26/09/48/buildings-690364_960_720.jpg",
+        "name": "City",
+        "author": "Elon Musk",
+        "quantity": 8
+    },
+    {
+        "id": "id-3",
+        "width": 800,
+        "alt": "Forest",
+        "src": "https://cdn.pixabay.com/photo/2017/01/04/21/00/fireworks-1953253__340.jpg",
+        "name": "Fire",
+        "author": "Jone",
+        "quantity": 8
+    },
+    {
+        "id": "id-4",
+        "width": 800,
+        "alt": "Forest",
+        "src": "https://cdn.pixabay.com/photo/2014/05/03/01/04/city-336708_960_720.jpg",
+        "name": "City-1",
+        "author": "Stive",
+        "quantity": 8
+    }
+
+]
