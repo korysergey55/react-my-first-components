@@ -1,7 +1,7 @@
 import React from 'react';
 import PropTypes from 'prop-types'; // Указание типов props
 import defaultImg from './default.jpg'; // картинка по дефолту
-console.log(defaultImg); // Путь к картинке по дефолту
+console.log(defaultImg); // Путь к картинке по дефолту defaultImg
 
 const Painting = (props) => {
     return (
