@@ -1,7 +1,8 @@
 import React from 'react';
 import PropTypes from 'prop-types'; // Указание типов props импортируем в каждый компонент
 import Painting from "./painting";
-const PaintingList = ({itemsForPaintingList}) => (
+
+const PaintingList = ({ itemsForPaintingList }) => (
     <ul>
         {itemsForPaintingList.map((paint) => (
             <li key={paint.id}>

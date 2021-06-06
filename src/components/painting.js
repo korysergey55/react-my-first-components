@@ -6,6 +6,7 @@ console.log(defaultImg); // Путь к картинке по дефолту def
 const Painting = (props) => {
     return (
         <div>
+            <h2>{props.title}</h2>
             <img
                 src={props.src}
                 alt={props.alt}
@@ -14,7 +15,7 @@ const Painting = (props) => {
             <h2>{props.name}</h2>
             <button type="button">See pecture</button>
             <p>{props.author}</p>
-            <p>sytatus {props.quantity > 10 ? "VIP" : props.quantity}</p>
+            <p>status: {props.quantity > 10 ? "VIP" : "Common"}</p>
         </div>
     );
 }
